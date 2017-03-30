@@ -1,6 +1,6 @@
 {
   "name": "unique_num",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "find unique number or numbers in array",
   "main": "index.js",
   "scripts": {
