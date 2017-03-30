@@ -10,5 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-  }
+  },
+  "repository": "https://github.com/dskurbatov/unique-num"
 }
