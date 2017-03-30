@@ -2,9 +2,9 @@
 
 Finding unique number from array of numbers. 
 Return values: 
-*if no unique values found return string;
-*if one unique number found return number;
-*if more then one unique value found return array.
+* if no unique values found return string;
+* if one unique number found return number;
+* if more then one unique value found return array.
 
 ### Install
 
